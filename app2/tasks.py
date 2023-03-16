@@ -1,4 +1,5 @@
 from celery.decorators import task
+
 from .email import send_feedback_email_task
 
 from celery.utils.log import get_task_logger
