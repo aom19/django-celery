@@ -1,0 +1,8 @@
+
+Hello {{name|safe}},
+<br>
+Here is a summary of the changes since the last report:
+<br>
+{{review|safe}}
+
+Thanks,
